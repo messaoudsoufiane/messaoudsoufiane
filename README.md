@@ -6,10 +6,12 @@
 ---
 
 ### 🚀 About Me
+- Étudiant en Master *Intelligent and Mobile Systems* à l'Université Sidi Mohamed Ben Abdellah.  
+- Expérience en développement Full Stack avec **Spring Boot, Angular, React.js, Docker, Kubernetes**.  
+- Projets en Big Data (*Hadoop, Spark*) et IA (*CNN, NLP*).
 - 🔭 I’m currently working on **Spring Boot & Microservices** projects  
 - 🌱 Learning more about **AI/ML** and **Cloud Computing**  
-- 💼 Looking for opportunities in **Full Stack Development** or **Software Engineering**  
-
+- 💼 Looking for opportunities in **Full Stack Development** or **Software Engineering**
 ---
 
 ### 🛠️ Most Used Languages
