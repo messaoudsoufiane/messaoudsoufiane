@@ -6,8 +6,8 @@
 ---
 
 ### 🚀 About Me
-- 🔭 I’m currently working on **Spring Boot & Microservices** projects  
-- 🌱 Learning more about **AI/ML** and **Cloud Computing**  
+- 🔭 I’m currently working on **Spring Boot & Angular** projects  
+- 🌱 Learning more about **AI/ML**   
 - 💼 Looking for opportunities in **Full Stack Development** or **Software Engineering**
 ---
 
